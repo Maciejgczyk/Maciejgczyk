@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Maciej</h1>
-<h3 align="center">Full-Stack Developer at Intermedia</h3>
+<h1>Hi 👋, I'm Maciej</h1>
+<h3>Full-Stack Developer at Intermedia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejgczyk&label=Profile%20views&color=0e75b6&style=flat" alt="maciejgczyk" /> </p>
 
