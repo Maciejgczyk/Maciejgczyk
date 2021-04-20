@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejgczyk&label=Profile%20views&color=0e75b6&style=flat" alt="maciejgczyk" /> </p>
 
-- 📫 How to reach me **maciejgczyk@gmail.com**
+📫 How to reach me **maciejgczyk@gmail.com**
 
 <h3 align="left">Connect with me: <a href="https://www.linkedin.com/in/maciej-grzegorczyk/">Maciej Grzegorczyk</a></h3>
 <p align="left">
