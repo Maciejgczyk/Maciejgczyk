@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Maciej</h1>
-<h3>Full-Stack Developer at Intermedia</h3>
+<h3>Angular Developer at Abaro</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maciejgczyk&label=Profile%20views&color=0e75b6&style=flat" alt="maciejgczyk" /> </p>
 
